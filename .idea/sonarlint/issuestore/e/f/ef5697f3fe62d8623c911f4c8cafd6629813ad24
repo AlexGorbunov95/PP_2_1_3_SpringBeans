@@ -1,0 +1,12 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğóå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ç½’å1
+L	java:S106"+Replace this use of System.out by a logger.(Î€ß°üÿÿÿÿ8öóå1
+G	java:S106"+Replace this use of System.out by a logger.(Ë’8÷óå1
+G	java:S106"+Replace this use of System.out by a logger.(Ş¿Ûõ8øóå1
+L	java:S106"+Replace this use of System.out by a logger.(İ»Öãûÿÿÿÿ8øóå1
+F	java:S106"+Replace this use of System.out by a logger.(É¯¸i8úóå1
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8ûóå1
